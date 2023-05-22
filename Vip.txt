@@ -1,6 +1,6 @@
 --tier1
 Bia
-DX30
+DX_30
 Bit
 Nariz
 Zazao
@@ -10,7 +10,7 @@ Joao
 Peste
 Vonlk
 Dingo Dingo
---tier55
+--tier3
 BiaKaraii
 quest2ljkh
 nomealgo
