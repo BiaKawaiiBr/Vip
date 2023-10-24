@@ -1,17 +1,17 @@
 // botar os 2 traços "//" nas coisas que o script nao vai ler
-// o nome do evento nao pode ter espaços e nem ascentos e é separado da descrição por uma vírgula.
+// o nome do evento nao pode ter espaços e nem ascentos e é separado da descriçao por uma virgula.
 // O separador pode ser alterado nas configs
 //
-// a estrutura do código é:
+// a estrutura do codigo é:
 //_kComandoNumero,"descriçao do evento"
-// tirar os '//' para aticar o comando
+// tirar os '//' para ativar o comando
 //_k1,"natal"
 //_k2,"pascoa"
 //_k3,"namorado"
 //_k4,"mentira"
 //_k5,"sao_joao"
 //_k6,"halloween"
-//_k7,"carnaval"
+_k7,"carnaval"
 //_k8,"ano_novo"
 //_k9,"vip_free"
 natal_evento_ativar,"o natal, no caso"
