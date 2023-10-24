@@ -9,13 +9,10 @@
 //_k2,"pascoa"
 //_k3,"namorado"
 //_k4,"mentira"
-//_k5,"sao_joao"
+_k5,"sao_joao"
 //_k6,"halloween"
-//_k7,"pascoa"
+//_k7,"carnaval"
 //_k8,"ano_novo"
-//_k9,"carnaval"
-//_k10,"aaaaa"
-//_k11,"aaaaa"
-//_k12,"aaaaa"
+//_k9,"vip_free"
 
 
