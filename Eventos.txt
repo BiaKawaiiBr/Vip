@@ -14,4 +14,4 @@
 //_k7,"carnaval"
 //_k8,"ano_novo"
 //_k9,"vip_free"
-fusca_carro_active,"so testando"
+natal_evento_ativar,"o natal, no caso"
