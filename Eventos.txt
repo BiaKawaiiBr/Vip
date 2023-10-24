@@ -11,8 +11,6 @@
 //_k4,"mentira"
 //_k5,"sao_joao"
 //_k6,"halloween"
-//_k7,"carnaval"
+k7,"carnaval"
 //_k8,"ano_novo"
 _k9,"vip_free"
-
-
