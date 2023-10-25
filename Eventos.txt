@@ -7,11 +7,10 @@
 // tirar os '//' para ativar o comando
 //_k1,"natal"
 //_k2,"pascoa"
-//_k3,"namorado"
+_k3,"namorado"
 //_k4,"mentira"
 //_k5,"sao_joao"
 //_k6,"halloween"
-_k7,"carnaval"
+//_k7,"carnaval"
 //_k8,"ano_novo"
 //_k9,"vip_free"
-natal_evento_ativar,"o natal, no caso"
