@@ -5,7 +5,7 @@
 // a estrutura do codigo é:
 //_kComandoNumero,"descriçao do evento"
 // tirar os '//' para ativar o comando
-//_k1,"natal"
+_k1,"natal"
 //_k2,"pascoa"
 //_k3,"namorado"
 //_k4,"festa_karaii"
@@ -14,4 +14,6 @@
 //_k7,"carnaval"
 //_k8,"ano_novo"
 //_k9,"vip_free"
-//_k10,"noticia"
+//_k10,"noticia_mapa_ingles"
+//_k11,"noticia_mapa_pt"
+//_k12,"noticia_votar_pt"
