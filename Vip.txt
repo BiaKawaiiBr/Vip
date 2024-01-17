@@ -124,6 +124,7 @@ ZZ_Ignis
 ------tier3------
 薬物 Xannax
 aprexi
+Apollypse
 Bismarck174
 BlueNardo
 Bolinho-chun
