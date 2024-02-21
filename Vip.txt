@@ -23,7 +23,6 @@ Arthur Zagnoli
 Ashe246
 ASleepingHippo
 Abi_Teh
-alfa_nero
 bigchunkk
 Breen_Gold
 Bit_1001
@@ -73,6 +72,7 @@ kiyashiki622
 Lao․
 Lukka03
 LilCatMadness
+illiah130
 Lemmon__Lime
 luhtwizzyrichh 2530
 LunarAdvent
@@ -96,8 +96,6 @@ Polarxs_
 Ｒｈｙｓ
 RuvikBorg
 RumorxGossip
-Riokoneko
-~ Robotic ~
 Rxella
 SevenSorrows
 Skittleskitsune
@@ -141,7 +139,6 @@ Cashination
 Ch'Ih-Yu
 CalypsoShark
 CherryPurr
-Coneless
 Devil_Demonic
 Daltsy
 EpicRex45
@@ -166,7 +163,7 @@ Rael Ozi
 Socks Pillow
 SoYue-陰
 ------tier4------
-Haamiah
+tier4test
 ------tierF------
 Asp22
 Bia_Kawaii_Br
