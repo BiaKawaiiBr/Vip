@@ -1,6 +1,4 @@
 // eh doiiiis
 _checkbiaoff,"c"
-//_checkeventoff,"ch"
+_checkeventoff,"ch"
 //_testoff,"s"
-_k9,"v"
-_k4,"f"
