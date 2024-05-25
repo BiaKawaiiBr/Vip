@@ -1,5 +1,4 @@
 ------tier1------
-Ayahoii
 atomic․92529 6be7
 bit․howard
 Fox King94
@@ -15,7 +14,6 @@ Cutomic≺3
 CinnamonWeeb
 chrisjames
 Despereaux bda3
-「Dabz」
 ~Dionysus
 ĐöõmЌĭŧŧẏ
 doctor77320
@@ -42,7 +40,6 @@ OracleofSorrow
 Prellski21 9c61
 Potatowarrior24
 per0xide
-Ｒｈｙｓ
 RuvikBorg
 randomdud1 d864
 Rxella
@@ -62,7 +59,6 @@ Yahira
 ------tier3------
 aprexi
 BlueNardo
-Coneless
 Daltsy
 -Dreys-
 EpicRex45
@@ -144,4 +140,5 @@ Vonlk
 V-vr
 GatoAjato
 ------tierBan------
+-----TierSubADM----
 V-vr
