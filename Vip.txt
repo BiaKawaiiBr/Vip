@@ -34,7 +34,6 @@ Lukka03
 Lemmon__Lime
 MariTheVillain
 Myth Freeman
-Mitchel_D
 Mute_Death
 MimiVi
 OracleofSorrow
@@ -58,7 +57,6 @@ Volrug
 Washington003
 Yahira
 ------tier3------
-aprexi
 BlueNardo
 Daltsy
 -Dreys-
@@ -75,7 +73,6 @@ pkaio2
 KYUURYU 九龍
 Rael Ozi
 Socks Pillow
-SoYue-陰
 ------tier4------
 tier4test
 ------tierF------
