@@ -2,5 +2,4 @@
 _checkbiaoff,"c"
 //_checkeventoff,"ch"
 //_testoff,"s"
-_k1,"n"
 _k8,"a"
