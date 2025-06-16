@@ -1,5 +1,5 @@
 // eh doiiiis
 _checkbiaoff,"c"
-_checkeventoff,"ch"
-//_testoff,"s"
-_ofb4,"ba"
+//_checkeventoff,"p"
+_ofb4,"t"
+_k5,"sao joao"
