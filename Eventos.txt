@@ -1,4 +1,2 @@
 // eh doiiiis
 _ofb4,"t"
-_k4,"f"
-_k9,"v"
